@@ -34,7 +34,7 @@ The following image demonstrates the application functionality:
 
 ## 💡💡💡Finished work
 
-* [The Link of the deployed application.]( https://zwind66.github.io/Shuai-s-Assignment-6/)
+* [The Link of the deployed application.](https://zwind66.github.io/Shuai-s-assignment-6/)
 
 * [The Link of the GitHub repository.]( https://github.com/zwind66/Shuai-s-Assignment-6.git)
 
