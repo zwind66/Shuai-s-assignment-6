@@ -2,7 +2,7 @@ $(function () {
     var history = JSON.parse(localStorage.getItem("search")) || [];
 
     // APIKey
-    var APIKey = "28870b55a52a06273a2463ffab2469f7";
+    var APIKey = "e1de4dde4a3848391fcce5cdaca68968";
 
     // get weather from open weather api
     function getWeather(cityName) {
